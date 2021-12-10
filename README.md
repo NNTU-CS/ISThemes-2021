@@ -1,6 +1,7 @@
 # ISThemes-2021
 ## Темы курсового проекта по дисциплине "Методы и средства проектирования информационных систем и технологий (МиСПИСиТ)"
 
+<img src="https://img.shields.io/github/last-commit/nntu-cs/ISThemes-2021?color=darkgreen&style=for-the-badge">
 
 ### Группа 19-СБК
 
